@@ -5,14 +5,6 @@ body, html {
   line-height: 1.8;
 }
 
-/* Full height image header */
-.bgimg-1 {
-  background-position: center;
-  background-size: cover;
-  background-image: url("/w3images/mac.jpg");
-  min-height: 100%;
-}
-
 .w3-bar .w3-button {
   padding: 16px;
 }
@@ -38,5 +30,6 @@ body, html {
 .w3-border-theme {border-color:#458246 !important}
 
 .w3-hover-theme:hover {color:#fff !important; background-color:#458246 !important}
+.w3-hover-theme-d3:hover {color:#fff !important; background-color:#305b31 !important}
 .w3-hover-text-theme:hover {color:#458246 !important}
 .w3-hover-border-theme:hover {border-color:#458246 !important}
