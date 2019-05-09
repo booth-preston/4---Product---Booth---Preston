@@ -30,6 +30,7 @@ body, html {
 .w3-border-theme {border-color:#458246 !important}
 
 .w3-hover-theme:hover {color:#fff !important; background-color:#458246 !important}
+.w3-hover-theme-l1:hover {color:#fff !important; background-color:#5ca95d !important}
 .w3-hover-theme-d3:hover {color:#fff !important; background-color:#305b31 !important}
 .w3-hover-text-theme:hover {color:#458246 !important}
 .w3-hover-border-theme:hover {border-color:#458246 !important}
